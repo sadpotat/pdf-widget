@@ -2,7 +2,7 @@
 A tkinter window that displays a single PDF file. Made to keep my schedules downloaded as PDFs from Notion on my Desktop to keep me focused...
 It isn't helping much :l
  
-This is my first tkinter application so it has a very basic UI. Feel free to commit improvements ;;__;; 
+This is my first tkinter application so it has a very basic UI. Feel free to commit improvements ;__; 
 
 Yes, I know tkPDFViewer exists. I couldn't run it, it had internal method name conflicts I did not know how to fix. This script simply converts PDFs to images and then puts them in Label widgets. The Label widgets are in a scrollable Canvas container. 
 
