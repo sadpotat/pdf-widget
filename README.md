@@ -6,5 +6,5 @@ This is my first tkinter application so it has a very basic UI. Yes, I know tkPD
 
 ### WARNING!!! 
 - Do not run or instantiate this script multiple times on Windows. The root.destroy() method is bugged and does not kill the process in Windows systems, making it consume a lot of RAM.
-- If you have to, make sure to kill python.exe from the Task Manager. 
-- You can also convert the script into an executable using pyinstaller. To kill the executable process, just press the Quit button. Do not press the X button on the title bar, it does not completely clear the program from memory.
+- If you do so, make sure to kill python.exe from the Task Manager. 
+- You can also convert the script into an executable using PyInstaller. To kill the executable process, just press the Quit button. Do not press the X button on the title bar, it does not completely clear the program from memory.
